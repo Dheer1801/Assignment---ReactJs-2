@@ -1,0 +1,16 @@
+.button{
+    margin-right: 10px;
+    background-color:darkgray;
+     border-style:double;
+     border-width: 3px;
+     border-color:indigo;
+     border-style: outset;
+   
+}
+h1{
+    background-color: aquamarine;
+    color: chocolate;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
